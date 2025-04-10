@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073000303057",
+    "project_id": "tripzy-mobile",
+    "storage_bucket": "tripzy-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073000303057:android:b2cdb823a6b2555e0d78f0",
+        "android_client_info": {
+          "package_name": "com.example.tripzy_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ARH6ODMI9wYB4LEQdFUr9IR0Vd7RbC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
